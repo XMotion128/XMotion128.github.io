@@ -2,6 +2,6 @@ body {
     color: black; background: #32a899;
  }
  
- h1 {
-    font-family: "comic sans";
+ h1, h2, p {
+    font-family: 'Indie Flower', cursive;
  }
