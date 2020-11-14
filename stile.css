@@ -1,7 +1,7 @@
 body {
-    color: black; background: #32a899;
+    color: black; background: #32a899; font-family: 'Indie Flower', cursive;
  }
  
- h1, h2, p {
-    font-family: 'Indie Flower', cursive;
+ p {
+     font-size: 20px
  }
