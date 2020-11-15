@@ -4,4 +4,4 @@
 Non ha nessuna utilità ma serve solo per verificare le mie competenze in questo nuovo campo.
 
 
-Studio da solo **Markdown** (ma ho una base di HTML) e CSS.
+Studio da solo **Markdown** (ma ho una base di **HTML**) e **CSS**.
