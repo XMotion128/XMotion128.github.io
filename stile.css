@@ -1,5 +1,5 @@
 body {
-    color: black; background: #32a899; font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive;
  }
  
  p {
@@ -7,5 +7,13 @@ body {
  }
 
  .spiegazione {
-     background: white; opacity: 0.5; width: 500px;
+     background: #1f3dff; width: 300px; -webkit-border-radius: 10px; border-radius: 10px;
+ }
+
+ p.paragrafo1 {
+     opacity: 1.0;
+ }
+
+ p:hover {
+     color: red; transition: color .5s;
  }
