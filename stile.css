@@ -1,13 +1,13 @@
 body {
-    font-family: 'Indie Flower', cursive; background-image: -webkit-linear-gradient(135deg, white, aqua); background-repeat: no-repeat; background-attachment: fixed;
+    font-family: 'Indie Flower', cursive; background-image: url("forest.jpg"); background-repeat: no-repeat; background-attachment: fixed;
  }
- 
+
  p {
      font-size: 20px;
  }
 
  .spiegazione {
-     background: #1f3dff; width: 300px; -webkit-border-radius: 10px; border-radius: 10px;
+     background: #046e00; width: 300px; -webkit-border-radius: 10px; border-radius: 10px;
  }
 
  p.paragrafo1 {
@@ -15,5 +15,7 @@ body {
  }
 
  p:hover {
-     color: red; transition: color .5s;
+     color: white; transition: color .5s;
  }
+
+ 
