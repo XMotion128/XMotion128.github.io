@@ -1,5 +1,5 @@
 body {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive; background-image: -webkit-linear-gradient(135deg, white, aqua); background-repeat: no-repeat; background-attachment: fixed;
  }
  
  p {
