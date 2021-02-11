@@ -1,4 +1,4 @@
 # XMotion128.github.io
-Sito web per testare le mie capacità nella creazione di pagine web.
+Questo è il mio sito, verrà aggiornato per aggiungere nuove scoperte o novità.
 
 Se qualcuno fosse interessato a leggere i sorgenti della pagina ecco qui.
