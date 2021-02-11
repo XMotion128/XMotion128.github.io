@@ -1,6 +1,8 @@
 body {
 
-    font-family: 'Indie Flower', cursive; background-image: url("../images/waves.jpg");
+    font-family: 'Indie Flower', cursive;
+    
+    background-image: url("../images/waves.jpg");
 
     background-repeat: no-repeat;
 
@@ -58,8 +60,6 @@ body {
 
     font-size: medium;
 
-    display: block;
-
     margin-left: 30%;
 
     margin-bottom: 20px;
@@ -69,13 +69,16 @@ body {
 
     opacity: 1.0;
   
+    margin-right: 10px;
 
-
+    margin-left: 10%;
+    
  }
 
  p:hover {
 
     color: white;
+
     transition: color .5s;
 
  }
@@ -88,3 +91,10 @@ body {
     
 }
 
+img#github {
+
+    margin-left: 38%;
+
+    margin-bottom: 20px;
+
+}
