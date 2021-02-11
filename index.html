@@ -1,6 +1,29 @@
 <!DOCTYPE html>
 
 <head>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.6/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.6/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyBFZDuLNEZV65saXk-5Ox0UCIUC-36qlPA",
+            authDomain: "prova-93ce4.firebaseapp.com",
+            projectId: "prova-93ce4",
+            storageBucket: "prova-93ce4.appspot.com",
+            messagingSenderId: "204835149512",
+            appId: "1:204835149512:web:e049d19e54c31f0088f7fd",
+            measurementId: "G-41GYHLFQ88"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
     <link href="stile.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
@@ -16,9 +39,16 @@
 
         <p class="paragrafo1">Non ha nessuna utilità</p>
 
-        <p class="paragrafo1">Studio <strong>Markdown</strong> (oltre all' <strong>HTML</strong>) e <strong>CSS</strong>.</p>
+        <p class="paragrafo1">Studio <strong>Markdown</strong> (oltre all' <strong>HTML</strong>) e
+            <strong>CSS</strong>.
+        </p>
 
     </div>
 
 
+    <div class="barraLaterale">
+
+        <a href="https://github.com/XMotion128/">Github</a>
+
+    </div>
 </body>
